@@ -1,0 +1,26 @@
+bin/FlashTest.pl
+bin/install_honeyclient_db.pl
+bin/run.sh
+bin/StartAgent.pl
+bin/StartManager.pl
+bin/TestRegistry.pl
+etc/honeyclient.xml
+etc/honeyclient_log.conf
+etc/inline2test.conf
+inc/Module/AutoInstall.pm
+inc/Module/Install.pm
+inc/Module/Install/AutoInstall.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Include.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/HoneyClient/Util/Config.pm
+lib/HoneyClient/Util/SOAP.pm
+Makefile.PL
+MANIFEST			This list of files
+t/honeyclient_util_config.t
+t/honeyclient_util_soap.t
