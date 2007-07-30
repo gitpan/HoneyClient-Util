@@ -9,7 +9,7 @@ order to specify and use the following global configuration options.
 For information about the syntax of this file format, please type
 "perldoc XML::Simple".
 
-CVS: $Id: honeyclient.xml 766 2007-07-26 02:46:00Z kindlund $
+CVS: $Id: honeyclient.xml 776 2007-07-26 20:01:07Z kindlund $
 
 #######################################################################
 

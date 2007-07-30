@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# $Id: run.sh 783 2007-07-30 17:43:19Z kindlund $
+
 echo "Starting up Agent - (Hit CTRL-C multiple times to exit.)"
 
 # Remove all old /tmp/* entries.
